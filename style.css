@@ -1,0 +1,47 @@
+nav{
+  font-size: 30px;
+  background-color: #61A3BA;
+  height: 160px;
+}
+body{
+  background-color: #F5E8B7;
+}
+u{
+  padding-left: 220px;
+}
+table{
+  background-color: #FAE7C9;
+}
+td{
+  font-size: 18px;
+  text-align: center;
+}
+form[name=signin]{
+  margin-left:41%;
+ 
+}
+marquee{
+  font-size: 70px;
+  color: #B2533E;
+}
+marquee[direction=left]{
+  color: red;
+  font-size: 50px;
+}
+form[name=regis]{
+  margin-left: 40%;
+}
+table[id=cat]{
+  margin-left: 5%;
+  background-color:#E0F4FF;
+}
+form[name=pass]{
+  margin-left: 30%;
+  width: 500px;
+  height:200px;
+  border: 2px solid black;
+}
+table[id=cart]{
+ margin-left:10%;
+background-color:#E0F4FF;
+}
